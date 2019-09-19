@@ -1,0 +1,1 @@
+molto probabilmente dal questo file htaccess puoi impostare che ad esempio la cartella social sia associata ad un file category.html/php
